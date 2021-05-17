@@ -1,0 +1,4 @@
+Flask==1.1.2
+tensorflow-cpu
+numpy==1.19.2
+gunicorn
